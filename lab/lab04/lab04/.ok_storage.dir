@@ -1,0 +1,6 @@
+'Lists-correct', (0, 66)
+'Dictionaries-correct', (512, 66)
+'flatten-correct', (1024, 66)
+'merge-correct', (1536, 66)
+'size_of_tree-correct', (2048, 66)
+'replace_loki_at_leaf-correct', (2560, 66)
