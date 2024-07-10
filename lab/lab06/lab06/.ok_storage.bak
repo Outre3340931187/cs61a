@@ -1,0 +1,4 @@
+'Iterators-correct', (0, 66)
+'count_occurrences-correct', (512, 66)
+'hailstone-correct', (1024, 66)
+'merge-correct', (1536, 66)
